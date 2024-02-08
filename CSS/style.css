@@ -506,7 +506,7 @@ body {
     line-height: 17px;
     width: 95%;
     height: 330px;
-    transform: translateX(110%);
+    transform: translateX(-110%);
     transition: transform .5s ease;
     position: absolute;
     margin: 0 -10px 0 -14px;
